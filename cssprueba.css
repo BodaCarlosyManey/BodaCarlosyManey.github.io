@@ -1,0 +1,20 @@
+.hero--slide2 {
+    background-image: url(../img/iglesia.jfif);
+    background-position: -500px;
+}
+.hero--slide3 {
+    background-image: url(../img/iglesia.jfif);
+}
+
+
+.hero--slide2 {
+    background-image: url('../img/bodacym.png'); /* Change to your image here */
+    background-position: bottom center;
+}
+
+.hero--slide3 {
+    background-image: url('../img/bodacym.png'); /* Change to your image here */
+    background-position: left center;
+}
+
+
